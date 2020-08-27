@@ -2764,3 +2764,118 @@ Script Stack (0 frames):
 [2020.08.27-19.34.34:257][757]Cmd: SELECT NONE
 [2020.08.27-19.34.34:703][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Pillar_01_12m)
 [2020.08.27-19.34.47:171][734]Cmd: SELECT NONE
+[2020.08.27-19.35.59:237][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_StairsSingle4)
+[2020.08.27-19.36.03:255][738]Cmd: TRANSACTION UNDO
+[2020.08.27-19.36.03:255][738]LogEditorTransaction: Undo Rotate Actors
+[2020.08.27-19.36.10:494][223]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Floor_01_Plateb12)
+[2020.08.27-19.36.10:986][246]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Floor_01_Plateb10)
+[2020.08.27-19.36.11:441][276]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Floor_01_Plateb3)
+[2020.08.27-19.36.12:326][337]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Floor_01_Plateb6)
+[2020.08.27-19.36.13:991][455]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_StairsSingle)
+[2020.08.27-19.36.16:384][621]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Pillar_01_12m)
+[2020.08.27-19.36.17:653][704]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Pillar_01_12m)
+[2020.08.27-19.36.18:785][776]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Pillar_01_12m)
+[2020.08.27-19.36.19:570][824]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Pillar_01_12m)
+[2020.08.27-19.36.24:640][194]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Floor_01_Plateb5)
+[2020.08.27-19.36.29:328][573]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Floor_5)
+[2020.08.27-19.36.29:946][606]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Floor_4)
+[2020.08.27-19.36.30:512][641]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Scifi_Floor_02)
+[2020.08.27-19.36.30:586][641]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Scifi_Floor_02)
+[2020.08.27-19.36.30:670][642]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Scifi_Floor_02)
+[2020.08.27-19.36.31:547][706]Cmd: TRANSACTION UNDO
+[2020.08.27-19.36.31:547][706]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.08.27-19.36.43:185][479]Cmd: TRANSACTION UNDO
+[2020.08.27-19.36.43:185][479]LogEditorTransaction: Undo Rotate Actors
+[2020.08.27-19.36.45:543][617]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Floor_5)
+[2020.08.27-19.36.46:710][692]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Floor_4)
+[2020.08.27-19.36.47:311][734]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Floor_02)
+[2020.08.27-19.36.49:890][916]Cmd: TRANSACTION UNDO
+[2020.08.27-19.36.49:890][916]LogEditorTransaction: Undo Rotate Actors
+[2020.08.27-19.36.50:622][945]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Floor_02)
+[2020.08.27-19.37.12:136][840]Cmd: SELECT NONE
+[2020.08.27-19.37.21:926][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Floor_01_Plateb5)
+[2020.08.27-19.37.26:749][243]Cmd: TRANSACTION UNDO
+[2020.08.27-19.37.26:749][243]LogEditorTransaction: Undo Move Actors
+[2020.08.27-19.37.28:390][373]Cmd: SELECT NONE
+[2020.08.27-19.37.29:280][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.08.27-19.37.29:300][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap" FILE="G:/TDM_FPS_PVP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.27-19.37.29:310][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.08.27-19.37.29:437][476]LogSavePackage: Moving 'G:/TDM_FPS_PVP/Saved/ThirdPersonExampleMapA505D43A42BC64BB30BD72AB7D1725A1.tmp' to 'G:/TDM_FPS_PVP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.27-19.37.29:471][476]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.171
+[2020.08.27-19.37.29:471][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="G:/TDM_FPS_PVP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.08.27-19.37.29:551][476]LogSavePackage: Moving 'G:/TDM_FPS_PVP/Saved/ThirdPersonExampleMap_BuiltDataB48A872A406A0A9989E5F8AB554EF8CD.tmp' to 'G:/TDM_FPS_PVP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.08.27-19.37.29:569][476]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.27-19.37.29:569][476]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.27-19.37.29:569][476]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.08.27-19.37.33:593][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.08.27-19.37.33:848][920]LogSlate: Window 'Content Browser 2' being destroyed
+[2020.08.27-19.37.34:002][920]LogSlate: Window 'TDM_FPS_PVP - Unreal Editor' being destroyed
+[2020.08.27-19.37.34:023][920]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.27-19.37.35:344][921]Cmd: QUIT_EDITOR
+[2020.08.27-19.37.35:344][921]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.08.27-19.37.35:403][921]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.08.27-19.37.36:726][921]LogExit: Preparing to exit.
+[2020.08.27-19.37.37:950][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:950][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:950][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:950][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:950][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:950][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:950][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:950][921]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-19.37.37:950][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:950][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:950][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:950][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:950][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:950][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:950][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:950][921]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-19.37.37:951][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:951][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:951][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:951][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:951][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:951][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:951][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:951][921]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-19.37.37:951][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:951][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:951][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:951][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:951][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:951][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:951][921]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-19.37.37:951][921]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-19.37.38:845][921]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.08.27-19.37.39:084][921]LogExit: Editor shut down
+[2020.08.27-19.37.39:088][921]LogExit: Transaction tracking system shut down
+[2020.08.27-19.37.39:602][921]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002E7AE7C7E00), frame # 335921
+[2020.08.27-19.37.39:602][921]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002E7AE7E6340), frame # 335921
+[2020.08.27-19.37.41:752][921]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000002E7BB5DD0C0), frame # 335921
+[2020.08.27-19.37.41:752][921]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002E7BB4B8680), frame # 335921
+[2020.08.27-19.37.41:777][921]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002E7BB4E1C00), frame # 335921
+[2020.08.27-19.37.42:697][921]LogExit: Object subsystem successfully closed.
+[2020.08.27-19.37.42:979][921]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.08.27-19.37.45:742][921]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (798)
+[2020.08.27-19.37.45:751][921]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (796)
+[2020.08.27-19.37.45:751][921]LogModuleManager: Shutting down and abandoning module Voice (794)
+[2020.08.27-19.37.45:781][921]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (792)
+[2020.08.27-19.37.45:781][921]LogModuleManager: Shutting down and abandoning module AddContentDialog (790)
+[2020.08.27-19.37.45:787][921]LogModuleManager: Shutting down and abandoning module WidgetCarousel (789)
+[2020.08.27-19.37.45:787][921]LogModuleManager: Shutting down and abandoning module EditorWidgets (786)
+[2020.08.27-19.37.45:787][921]LogModuleManager: Shutting down and abandoning module CollectionManager (784)
+[2020.08.27-19.37.45:813][921]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (782)
+[2020.08.27-19.37.45:813][921]LogModuleManager: Shutting down and abandoning module SceneOutliner (780)
+[2020.08.27-19.37.45:813][921]LogModuleManager: Shutting down and abandoning module StatsViewer (778)
+[2020.08.27-19.37.46:018][921]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
+[2020.08.27-19.37.46:018][921]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2020.08.27-19.37.46:101][921]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2020.08.27-19.37.46:160][921]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
+[2020.08.27-19.37.46:160][921]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
+[2020.08.27-19.37.46:160][921]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
+[2020.08.27-19.37.46:160][921]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (764)
+[2020.08.27-19.37.46:161][921]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (762)
+[2020.08.27-19.37.46:179][921]LogModuleManager: Shutting down and abandoning module AutomationWorker (760)
+[2020.08.27-19.37.46:183][921]LogModuleManager: Shutting down and abandoning module SteamVREditor (758)
+[2020.08.27-19.37.46:183][921]LogModuleManager: Shutting down and abandoning module OculusMR (756)
