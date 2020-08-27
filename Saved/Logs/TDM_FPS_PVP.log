@@ -1393,3 +1393,17 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.27-10.45.53:259][429]LogSavePackage: Moving 'G:/TDM_FPS_PVP/Saved/ThirdPersonExampleMap_Auto2A3416C0046A42630BC8104B26A76E972.tmp' to 'G:/TDM_FPS_PVP/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
 [2020.08.27-10.45.53:261][429]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.150
 [2020.08.27-10.45.53:261][429]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.150
+[2020.08.27-11.05.26:623][944]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.08.27-11.05.27:641][ 10]Cmd: EDIT PASTE
+[2020.08.27-11.05.28:666][ 10]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2020.08.27-11.05.28:667][ 10]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2020.08.27-11.05.29:228][ 10]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2020.08.27-11.05.29:289][ 10]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.08.27-11.05.35:529][112]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.08.27-11.05.37:858][181]Cmd: SELECT NONE
+[2020.08.27-11.05.48:072][584]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2020.08.27-11.05.54:481][765]Cmd: SELECT NONE
+[2020.08.27-11.07.29:416][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.08.27-11.07.30:409][ 48]LogSavePackage: Moving 'G:/TDM_FPS_PVP/Saved/ThirdPersonExampleMap_Auto33BC878984848BDEF0CCAEEA598B5CC58.tmp' to 'G:/TDM_FPS_PVP/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2020.08.27-11.07.30:414][ 48]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.011
+[2020.08.27-11.07.30:414][ 48]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.011
