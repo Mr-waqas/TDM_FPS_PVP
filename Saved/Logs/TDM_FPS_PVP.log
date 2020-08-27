@@ -793,3 +793,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.27-09.46.22:776][166]LogSavePackage: Moving 'G:/TDM_FPS_PVP/Saved/ThirdPersonExampleMap_Auto19C69D4294D82BCC4801704B6C699A550.tmp' to 'G:/TDM_FPS_PVP/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
 [2020.08.27-09.46.22:813][166]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.645
 [2020.08.27-09.46.22:813][166]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.645
+[2020.08.27-09.59.01:687][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.08.27-09.59.01:939][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap" FILE="G:/TDM_FPS_PVP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.27-09.59.01:948][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.08.27-09.59.02:061][717]LogSavePackage: Moving 'G:/TDM_FPS_PVP/Saved/ThirdPersonExampleMap5CC3F065494A6040B677ECAB7DD0CDC6.tmp' to 'G:/TDM_FPS_PVP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.27-09.59.02:184][717]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.245
+[2020.08.27-09.59.02:184][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="G:/TDM_FPS_PVP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.08.27-09.59.02:464][717]LogSavePackage: Moving 'G:/TDM_FPS_PVP/Saved/ThirdPersonExampleMap_BuiltData3221C45F43F5CFCD3224AE8CE4B318D4.tmp' to 'G:/TDM_FPS_PVP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.08.27-09.59.02:526][717]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.27-09.59.02:526][717]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.27-09.59.02:527][717]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
